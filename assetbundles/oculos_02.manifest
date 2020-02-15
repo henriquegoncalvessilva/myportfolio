@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1878357836
+CRC: 4201980552
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ddcb5c8cfc3848dea2ba857f50418a94
+    Hash: ff04a782d1c02d5afaeab183f28a9362
   TypeTreeHash:
     serializedVersion: 2
     Hash: cb5cff3a1350143ce413b676b0fb473f
@@ -26,5 +26,5 @@ ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
 Assets:
-- Assets/3D/Oculos/10308_Metal_Frame_Reading_Glasses_v2_L3.04f62d26-1002-4256-ba69-44c4e37e0d1e/oculos_02.obj
+- Assets/3D/Oculos/10308_Metal_Frame_Reading_Glasses_v2_L3.04f62d26-1002-4256-ba69-44c4e37e0d1e/oculos_02.fbx
 Dependencies: []

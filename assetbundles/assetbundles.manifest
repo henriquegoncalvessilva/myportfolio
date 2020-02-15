@@ -1,10 +1,10 @@
 ManifestFileVersion: 0
-CRC: 637878268
+CRC: 3716139300
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: oculos_02
+      Name: oculos_01
       Dependencies: {}
     Info_1:
-      Name: oculos_01
+      Name: oculos_02
       Dependencies: {}

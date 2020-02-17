@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 584618299
+CRC: 3616643578
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c828f4ce07997e1c14872e60dc5d0bcf
+    Hash: aedbaf7539c9d5cc360d0de56b5fadc7
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 798811b7255c82b34a9f8780c2ce846a
+    Hash: cb5cff3a1350143ce413b676b0fb473f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -17,6 +17,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 23
   Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
 - Class: 33
   Script: {instanceID: 0}
 - Class: 43
@@ -24,5 +26,5 @@ ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
 Assets:
-- Assets/3D/Oculos/oculos_01.fbx
+- Assets/3D/OCULOS_1/oculos_1.fbx
 Dependencies: []

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "557113285695",
+    "firebase_url": "https://coronavirus-eb995.firebaseio.com",
+    "project_id": "coronavirus-eb995",
+    "storage_bucket": "coronavirus-eb995.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557113285695:android:d3028f328a3e7e55c56c8a",
+        "android_client_info": {
+          "package_name": "com.imaginAR.CoronavirusemFoco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557113285695-q31c6rjk8c47pkj3dgbrn9p6rfi5t6b1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_SwIIt7x8g4Vdvy5W2VZaFbqf1KXt6m4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557113285695-q31c6rjk8c47pkj3dgbrn9p6rfi5t6b1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

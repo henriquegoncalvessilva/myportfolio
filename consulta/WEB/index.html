@@ -15,8 +15,9 @@ https://github.com/sno/unity-webgl-responsive
   <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>imaginAR - Agência de Artefatos Digitais</title>
-
+ 
+    <title>Coronavírus em Foco | Desenvolvido por: imaginAR - Agência de Artefatos Digitais</title>
+    
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link rel="stylesheet" href="assets/css/reset.css">
@@ -36,6 +37,16 @@ https://github.com/sno/unity-webgl-responsive
         var unityInstance = UnityLoader.instantiate("unityContainer", "Build/WEB 0.2.json");
       }
     </script>
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-162332440-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-162332440-1');
+</script>
   </head>
 
   <body>
@@ -47,8 +58,8 @@ https://github.com/sno/unity-webgl-responsive
     </div>
 
     <div class="info">
-      <p>unity webgl responsive</p>
-      <p>press F or <a href="#" onclick="unityInstance.SetFullscreen(1)">click here</a> to toggle fullscreen</p>
+       <div class="title"><a href="http://imaginar.site" target="_Blank" >Clique aqui e acesse o nosso site</a></div>
+      <p>Pressione F ou <a href="#" onclick="unityInstance.SetFullscreen(1)">Click aqui</a> para ativar tela cheia</p>
     </div>
 
     <!-- feel free to remove all credits! -->
